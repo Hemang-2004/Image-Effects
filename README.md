@@ -18,7 +18,8 @@ It also features a logging service which keeps track of all the changes made to 
 - Change Brightness
 - Identifying the Dominant Colour
 - Sepia Effect
-- Logging Service 
+- Logging Service
+
 
 
 
