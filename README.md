@@ -21,8 +21,6 @@ It also features a logging service which keeps track of all the changes made to 
 - Logging Service
 
 
-
-
 ##  Link
 
 The link to our Project is given below ->
